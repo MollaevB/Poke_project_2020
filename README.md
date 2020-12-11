@@ -1,1 +1,5 @@
-# Poke_project_2020
+# Projet Web Iut Info module Web 2020
+
+-Groupe G2
+
+Mollaev Bayssangour
